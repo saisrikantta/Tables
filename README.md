@@ -1,6 +1,6 @@
 # Setup Instructions  
 
-Clone the github repository to your local machine.  
+Clone this repository to your local machine.  
 Make sure you have node.js installed.  
 Navigate to the working directory and run the following scripts in the given order.  
 
